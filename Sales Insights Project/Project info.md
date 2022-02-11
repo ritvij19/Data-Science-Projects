@@ -2,7 +2,10 @@
 ## <u> Problem Statement: 
   <p>
 AtliQ  Hardware is a company which supplies computer hardwares and peripherals across many clients. Bhavin Patel, sales manager of AtliQ Hardware is facing the challenge that the market is growing dynamically and then he is facing issues in terms of sales tracking and with the insights of his business.
-## Solution: 
+    </p>
+  
+## <u>Solution: 
+  
 Step 1 : We will do the project planning using AIMS grid. 
 i.	Purpose: To unlock sales insights that are not visible before for sales team.
 ii.	Stakeholders: Sales Director, Marketing team, Data and analytics team etc.
