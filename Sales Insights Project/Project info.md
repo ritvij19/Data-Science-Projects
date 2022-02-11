@@ -5,7 +5,7 @@ AtliQ  Hardware is a company which supplies computer hardwares and peripherals a
     </p>
   
 ## <u>Solution: 
-  
+<p>  
 Step 1 : We will do the project planning using AIMS grid. 
   
   i.	Purpose: To unlock sales insights that are not visible before for sales team.
@@ -22,7 +22,7 @@ Step 1 : We will do the project planning using AIMS grid.
   
     •	Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
   
-    <p>
+  </p>
 Step 2: Loading the sales data from the IT team tour local MySql database.
       </p>
   <p>
