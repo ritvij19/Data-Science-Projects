@@ -8,19 +8,19 @@ AtliQ  Hardware is a company which supplies computer hardwares and peripherals a
   
 Step 1 : We will do the project planning using AIMS grid. 
   
-i.	Purpose: To unlock sales insights that are not visible before for sales team.
+  i.	Purpose: To unlock sales insights that are not visible before for sales team.
   
-ii.	Stakeholders: Sales Director, Marketing team, Data and analytics team etc.
+  ii.	Stakeholders: Sales Director, Marketing team, Data and analytics team etc.
   
-iii.	END Result: An automated dashboard providing quick and latest sales insights in order to support data-driven decision making.
+  iii.	END Result: An automated dashboard providing quick and latest sales insights in order to support data-driven decision making.
   
-iv.	Success Criteria: 
+  iv.	Success Criteria: 
   
-•	Dashboard uncovering sales order insights with latest data available
+    •	Dashboard uncovering sales order insights with latest data available
   
-•	Sales team able to take better decisions and prove 10% cost savings of total spend.
+    •	Sales team able to take better decisions and prove 10% cost savings of total spend.
   
-•	Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
+    •	Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it value added activity.
   
     <p>
 Step 2: Loading the sales data from the IT team tour local MySql database.
